@@ -46,4 +46,4 @@ After about 120 seconds the infrastructure will be setup and you will be able to
 
 ## Example
 
-See [my blog post here](http://justinholcomb.me/blog/2018/06/12/aws-api-gateway-lambda-route53-terraform-mitm-demo.html).
+See [my blog post here](https://justinholcomb.me/blog/2018/06/12/aws-api-gateway-lambda-route53-terraform-mitm-demo.html).
